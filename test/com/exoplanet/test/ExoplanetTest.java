@@ -27,6 +27,9 @@ public class ExoplanetTest  {
 	
 	private static Properties properties;
 	
+	/*
+	 * This method initializes the input 
+	 */
 	@BeforeClass
 	public static void initializeData() throws Exception {
 		String input = Initiator.initializeInputData();
