@@ -9,3 +9,5 @@ Steps to run this application:
 4. Build the project once if there are any build errors. All the required jars are within the project.
 4. Run the class com.exoplanet.main.Main.java to see the output.
 5. Run the test class com.exoplanet.test.ExoplanetTest.java to run the test cases.
+6. Two property files are used, Exoplanet-Repo/resources/config.properties -> Used to configure the application related properties.
+   Exoplanet-Repo/resources/testdata.properties -> Used to configure the test data to validate the test cases.
